@@ -1,0 +1,11 @@
+also_see	0
+member_meronym	1
+has_part	2
+synset_domain_topic_of	3
+hypernym	4
+member_of_domain_usage	5
+instance_hypernym	6
+derivationally_related_form	7
+verb_group	8
+similar_to	9
+member_of_domain_region	10

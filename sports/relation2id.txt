@@ -1,0 +1,4 @@
+concept_athleteledsportsteam	1
+concept_athleteplaysforteam	2
+concept_coachesteam	3
+concept_personbelongstoorganization	0

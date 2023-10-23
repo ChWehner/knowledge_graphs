@@ -1,0 +1,5 @@
+neighbor	0
+regionInContinent	1
+countryInContinent	2
+inRegion	3
+consumesPaprikaFrom	4
